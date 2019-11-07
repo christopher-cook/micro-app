@@ -46,7 +46,7 @@ services:
   songs-api:
     image: maven:3.6.1-jdk-8
     ports:
-      - '8585:8585'
+      - '8082:8082'
     working_dir: /app
     volumes:
       - ./songs-api:/app

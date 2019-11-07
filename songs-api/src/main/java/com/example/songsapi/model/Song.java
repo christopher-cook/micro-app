@@ -10,9 +10,11 @@ import javax.persistence.*;
         @Id
         @GeneratedValue(strategy = GenerationType.IDENTITY)
         private long id;
+        @Column
         private String title;
         @Column(name = "duration")
         private int length;
+        @Column
         private String content;
 
         public Song() {}
@@ -58,7 +60,7 @@ import javax.persistence.*;
 
         public String toString() {
             StringBuilder s = new StringBuilder();
-            s.append("User{")
+            s.append("Song{")
                     .append("id:").append(id)
                     .append(",title:").append(title)
                     .append(",length:").append(length)
