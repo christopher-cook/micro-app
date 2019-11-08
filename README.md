@@ -11,8 +11,6 @@
   ![Jenkins - Hristina](https://i.imgur.com/QsJMaXP.png)
   ![Jenkins - Christopher](https://i.imgur.com/vNcPWoH.png)
 ---
-  - [MicroServices](https://github.com/christopher-cook/micro-app)
----
   ### JMeter
   - [Christopher](https://i.imgur.com/O4J27dF.png)
   - [Hristina](https://i.imgur.com/BlmN7Vz.png)
